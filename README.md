@@ -1,7 +1,2 @@
 # Repositorio_Deber
-Registro de contactos
--Nombre
--Apellido
-Carrera 
-Datos guardado en un archivo 
-(Se utilizo funciones)
+Registro de contacts:nombre,apellido,carrera.Los datos se guardo en un archivo(con funciones)
