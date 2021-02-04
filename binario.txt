@@ -1,2 +1,13 @@
 
+El tamaño del arreglo es : 10
+
+Numero ingresado por el usuario : 16
+
+No hay ese elemento 
+El tamaño del arreglo es : 10
+
+Numero ingresado por el usuario : 5
+
+Elemto a buscar 5
+
 El elemento si existe  5
